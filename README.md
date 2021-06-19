@@ -1,5 +1,7 @@
 👋🏻 Hola! My name is **ph03n1x** or another silly guy interested in programming and it's my GitHub account
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ph03n1xf&show_icons=true&theme=onedark)
+
 ### - And there are some information about me:
 
     From Kazakhstan 🇰🇿
