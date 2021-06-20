@@ -1,6 +1,6 @@
-👋🏻 Hola! My name is **ph03n1x** or another silly guy interested in programming and it's my GitHub account
+👋🏻 Hola! My name is **ph03n1x** or another silly guy interested in programming and it's my GitHub page
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ph03n1xf&show_icons=true&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ph03n1xf&show_icons=true&theme=dracula)
 
 ### - And there are some information about me:
 
